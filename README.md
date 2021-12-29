@@ -1,1 +1,1 @@
-<h1 id="testcomparisonprivatepublicrepos">Test comparison private/public repos</h1><p><img src="https://github.com/adeveloper-wq/adeveloper-wq/blob/main/img/Private_Public_Repos_1640221125607.png" alt="Private_Public_Repos" /></p>
+<h1 id="hieristdiecoolestatisik">Hier ist die coole Statisik</h1><p><img src="https://github.com/adeveloper-wq/adeveloper-wq/blob/main/img/Private_Public_Repos_1640793397959.png" alt="Private_Public_Repos" /></p>
